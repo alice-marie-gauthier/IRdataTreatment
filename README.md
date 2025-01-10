@@ -1,16 +1,14 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/swisscatplus/">
-    <img src="./images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h1 align="center">IRdataTreatment</h1>
 
   <p align="center">
-    CATculator
+    IR data Treatment
     <br />
-    <a href="https://github.com/swisscatplus/CATculator.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alice-marie-gauthier/IRdataTreatment.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
